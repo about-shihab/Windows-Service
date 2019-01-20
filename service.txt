@@ -1,0 +1,7 @@
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+
+
+InstallUtil.exe D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+
+
+InstallUtil.exe -u D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
