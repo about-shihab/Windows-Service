@@ -1,0 +1,8 @@
+D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe.config
+D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.pdb
+D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\Oracle.DataAccess.dll
+D:\_Service\PdfWindowsService\PdfWindowsService\obj\Debug\PdfWindowsService.ProjectInstaller.resources
+D:\_Service\PdfWindowsService\PdfWindowsService\obj\Debug\PdfWindowsService.csproj.GenerateResource.Cache
+D:\_Service\PdfWindowsService\PdfWindowsService\obj\Debug\PdfWindowsService.exe
+D:\_Service\PdfWindowsService\PdfWindowsService\obj\Debug\PdfWindowsService.pdb

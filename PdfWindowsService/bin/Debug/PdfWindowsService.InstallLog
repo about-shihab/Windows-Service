@@ -1,0 +1,115 @@
+﻿Installing assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Installing service Service_pdf_Copy...
+Creating EventLog source Service_pdf_Copy in log Application...
+Rolling back assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Restoring event log to previous state for source Service_pdf_Copy.
+Uninstalling assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Removing EventLog source Service_pdf_Copy.
+Service Service_pdf_Copy is being removed from the system...
+Service Service_pdf_Copy was successfully removed from the system.
+Installing assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Installing service Service_pdf_Copy...
+Creating EventLog source Service_pdf_Copy in log Application...
+Rolling back assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Restoring event log to previous state for source Service_pdf_Copy.
+Installing assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Installing service Service_pdf_Copy...
+Creating EventLog source Service_pdf_Copy in log Application...
+Rolling back assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Restoring event log to previous state for source Service_pdf_Copy.
+Uninstalling assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Removing EventLog source Service_pdf_Copy.
+Warning: The source Service_pdf_Copy is not registered on the local machine.
+Service Service_pdf_Copy is being removed from the system...
+Service Service_pdf_Copy was successfully removed from the system.
+Installing assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Installing service Service_pdf_Copy...
+Creating EventLog source Service_pdf_Copy in log Application...
+Rolling back assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Restoring event log to previous state for source Service_pdf_Copy.
+Uninstalling assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Removing EventLog source Service_pdf_Copy.
+Warning: The source Service_pdf_Copy is not registered on the local machine.
+Service Service_pdf_Copy is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Removing EventLog source Service_pdf_Copy.
+Warning: The source Service_pdf_Copy is not registered on the local machine.
+Service Service_pdf_Copy is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Removing EventLog source Service_pdf_Copy.
+Warning: The source Service_pdf_Copy is not registered on the local machine.
+Service Service_pdf_Copy is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
+Installing service Service_pdf_Copy...
+Service Service_pdf_Copy has been successfully installed.
+Creating EventLog source Service_pdf_Copy in log Application...
+Committing assembly 'D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.InstallLog
+   assemblypath = D:\_Service\PdfWindowsService\PdfWindowsService\bin\Debug\PdfWindowsService.exe
